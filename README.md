@@ -1,5 +1,6 @@
 # generative-adversarial-network-gan
-Intro to Generative Adversarial Network (GAN) projects
+Intro to Generative Adversarial Network (GAN) projects.
+A good reading material for GAN: https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29
 
 # 1. How GANs work?
 
