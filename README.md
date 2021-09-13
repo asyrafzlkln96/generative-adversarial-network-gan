@@ -5,7 +5,9 @@ Intro to Generative Adversarial Network (GAN) projects
 
 Generator vs Discriminator
 
-[!alt text](https://miro.medium.com/max/1400/1*nAVqFluPijpBWR2tI4gCxg.png "Logo Title Text 1")
+![alt text][logo]
+
+[logo]: https://miro.medium.com/max/1400/1*nAVqFluPijpBWR2tI4gCxg.png "Logo Title Text 1"
 
 # 2. GAN variants
 * DCGAN
