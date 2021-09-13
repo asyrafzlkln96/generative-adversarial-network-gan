@@ -4,7 +4,8 @@ Intro to Generative Adversarial Network (GAN) projects
 # 1. How GANs work?
 
 Generator vs Discriminator
-[!alt text](https://miro.medium.com/max/1400/1*nAVqFluPijpBWR2tI4gCxg.png)
+
+[!alt text](https://miro.medium.com/max/1400/1*nAVqFluPijpBWR2tI4gCxg.png "Logo Title Text 1")
 
 # 2. GAN variants
 * DCGAN
